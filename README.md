@@ -1,0 +1,5 @@
+# 💻📊✔️ API testing:
+My experince in REST and SOAP API testing using Postman tool:
+- <a href="https://www.postman.com/cloudy-meteor-844571/workspace/workspacestudy2023/collection/28825783-0e1de776-12a0-4c48-b451-620e43fedbae?action=share&creator=28825783" title="rest" alt="rest"> REST </a> collection in Postman for all methods described for the https://petstore.swagger.io/ service. This is a collabarative work with Swagger documentation tool
+- <a href="https://docs.google.com/spreadsheets/d/1a_BuOmmhGLOBEv0YaRYkKUAaaBg7_1rdcDj8E41gglA/edit?usp=sharing" title="testcaseapi" alt="testcaseapi"> Test cases </a> for API testing differ from we usually used to work and have wider information
+- <a href="https://www.postman.com/cloudy-meteor-844571/workspace/workspacestudy2023/collection/28825783-6108c7f8-a0cd-4669-a73a-5f8764cecdf4?action=share&creator=28825783 " title="soapapi" alt="soapapi"> SOAP </a> collection in Postman using WSDL 
